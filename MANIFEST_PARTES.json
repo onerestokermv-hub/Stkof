@@ -1,0 +1,29 @@
+{
+  "project_root": "legend-android/",
+  "parts": [
+    {
+      "file": "01-proyecto-y-configuracion.zip",
+      "size_bytes": 18367828,
+      "files": 101
+    },
+    {
+      "file": "02-personajes-combate-1.zip",
+      "size_bytes": 17258520,
+      "files": 150
+    },
+    {
+      "file": "03-personajes-combate-2.zip",
+      "size_bytes": 16946529,
+      "files": 324
+    },
+    {
+      "file": "04-personajes-combate-3.zip",
+      "size_bytes": 6481229,
+      "files": 28
+    }
+  ],
+  "omitted": [
+    "legend-android/platforms/ (generated Cordova Android platform/build output; regenerate with cordova platform add android)"
+  ],
+  "extract_all_to_same_directory": true
+}
